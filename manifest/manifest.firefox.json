@@ -4,6 +4,11 @@
   "default_locale": "en",
   "version": "1.7.0.1",
   "description": "__MSG_Extension_description__",
+  "applications": {
+    "gecko": {
+      "strict_min_version": "52.0"
+     }
+  },   
   "icons": {
     "16": "img/wallabag-icon-48a.png",
     "128": "img/wallabag-icon-128.png"
